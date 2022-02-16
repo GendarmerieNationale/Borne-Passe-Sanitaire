@@ -8,7 +8,7 @@ Reposant sur une architecture ANDROID, la borne peut accueillir des applications
 
 Ce dépôt vous permet de construire une borne passe sanitaire.
 
-## LICENSE
+## LICENCE
 
 CERN Open Hardware Licence Version 2 - Weakly Reciprocal
 
